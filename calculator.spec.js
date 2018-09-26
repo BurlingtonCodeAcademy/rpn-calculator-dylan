@@ -1,3 +1,5 @@
+//npx jasmine --fail-fast=true --random=false *.spec.js
+
 const Calculator = require('./calculator.js')
 
 // See http://en.wikipedia.org/wiki/Reverse_Polish_notation
